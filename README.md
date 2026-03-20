@@ -1,6 +1,6 @@
-# Mangalam HDPE Pipes — Product Website
+# Mangalam HDPE Pipes
 
-A responsive, single-page website for an industrial HDPE pipe manufacturer.
+Responsive single-page website for Mangalam HDPE Pipes — vanilla HTML, CSS & JavaScript. Features image carousel, sticky header, process tabs, FAQ accordion, and smooth scroll navigation.
 
 ## 📁 Project Structure
 
@@ -18,7 +18,7 @@ Gushwork/
 1. **Home** — Hero image carousel with zoom, price info, certifications
 2. **About Us** — Company overview and key statistics
 3. **Features** — Product highlights (6 feature cards)
-4. **Specifications** — Technical data table
+4. **Technical Specifications** — Data table with hover effects
 5. **Industries** — Application cards (Agriculture, Infrastructure, Oil & Gas, Mining)
 6. **Manufacturing Process** — 8-step interactive tab switcher
 7. **Testimonials** — Client reviews
@@ -29,15 +29,14 @@ Gushwork/
 
 ## 🛠 Tech Stack
 
-- Vanilla HTML5, CSS3, JavaScript (no frameworks)
+- Vanilla HTML5, CSS3, JavaScript (no frameworks or libraries)
 - Responsive: desktop, tablet, mobile
-- Font: Arial / System defaults
 - Images: Local (`assets/images/`)
 
 ## ✨ Features
 
-- Sticky header (appears on scroll)
+- Sticky header (appears after scrolling past hero section)
 - Image carousel with zoom toggle
-- Process tab switcher
-- FAQ accordion
+- Process tab switcher (8 steps)
+- FAQ accordion (one item at a time)
 - Smooth scroll navigation
